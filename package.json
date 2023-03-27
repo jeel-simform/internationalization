@@ -1,0 +1,24 @@
+{
+  "name": "internationalization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "i18n": "^0.15.1",
+    "node-sessionstorage": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
